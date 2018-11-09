@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity {
             tv1.setText("Estatus Aprobado con "+promedio);
         }else if(promedio <=5){
             tv1.setText("Estatus Desaprobado con "+promedio);
+            if {promedio=4
 
         }
 
